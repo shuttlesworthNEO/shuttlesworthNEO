@@ -4,7 +4,7 @@
 
 I own engineering and help shape your product and business priorities. I build and run engineering teams, with expertise in AI-first products and AI-first engineering teams.
 
-I'm a hands-on engineering leader and fractional CTO based in Mumbai. Nine years leading engineering teams. I'm also co-founder and CTO at [EmailZap](https://emailzap.co), and I still write code.
+I'm a hands-on engineering leader and embedded CTO based in Mumbai. Nine years leading engineering teams. I'm also co-founder and CTO at [EmailZap](https://emailzap.co), and I still write code.
 
 ### When to bring me in
 
